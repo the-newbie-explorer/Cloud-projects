@@ -1,0 +1,7 @@
+What did we learn? 
+Added a file, a simple html page with a display message.
+Added it in the repository
+Used Netlify to directly deploy it on the web using netlify API
+Changes made in the html file, reflects live changes on the web, this is continuous delivery; CD
+the project on netlify is paused to protect resources
+Enable it again to play more
